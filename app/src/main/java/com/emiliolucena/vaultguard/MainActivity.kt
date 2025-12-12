@@ -1,4 +1,4 @@
-package com.seuusername.vaultguard
+package com.emiliolucena.vaultguard
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
