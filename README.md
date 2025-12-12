@@ -2,6 +2,7 @@
 
 **The KeePass for crypto seed phrases**  
 100% offline · open-source · zero custody · Android (Kotlin + Jetpack Compose)
+[![Build Status](https://github.com/EmilioLucena/VaultGuard/actions/workflows/android.yaml/badge.svg)](https://github.com/EmilioLucena/VaultGuard/actions)
 
 <img src="https://github.com/EmilioLucena/VaultGuard/blob/main/screenshots/preview.png?raw=true" width="300" alt="VaultGuard preview" />
 
